@@ -1,6 +1,6 @@
 # Ali — IT Support & Networking
 
-**Contact:** ali@example.com | Nigeria | GitHub: github.com/your-username | LinkedIn: linkedin.com/in/your-handle
+**Contact:** alistrong8@gmail.com | Nigeria | GitHub: github.com/alistrong8 | LinkedIn: linkedin.com/
 
 ## Profile
 Remote-ready IT practitioner with hands-on skills in networking (CCNA), Linux, AWS fundamentals, front-end development (HTML/CSS), and advanced Excel for data analysis.
