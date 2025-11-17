@@ -1,0 +1,3 @@
+# Repo Structure Notes
+
+Networking Labs, Linux Scripts, AWS Demos, Frontend Projects, Excel Projects folders structured for clarity.
